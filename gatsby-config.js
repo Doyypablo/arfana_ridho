@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Arfana Ridho',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Arfana Ridho is a passionate developer and tech enthusiast.',
     siteUrl: 'https://github.com/Doyypablo', // No trailing slash allowed!
     image: 'src/images/logoku.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
