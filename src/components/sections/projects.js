@@ -253,7 +253,7 @@ const Gallery = () => {
       title: "Guide to Learn R with AI",
       category: "R with AI",
       description: "Certificate DQlab",
-      image: "/r ai.png", // Ukuran sertifikat ~1.4:1
+      image: "/r ai.jpg", // Ukuran sertifikat ~1.4:1
       tags: ["R", "Code",],
       link: "/gallery/sunset",
       fullImage: "/r ai.png"
@@ -303,7 +303,7 @@ const Gallery = () => {
       title: "Guide to Learn SQL with AI",
       category: "AI with SQL",
       description: "Completed a course on learning SQL with AI.",
-      image: "/sql ai.png",
+      image: "/sql ai.jpg",
       tags: ["SQL", "AI", "Database"],
       link: "/gallery/art",
       fullImage: "/sql ai.png"
@@ -339,7 +339,7 @@ const Gallery = () => {
 
   return (
     <StyledGallerySection>
-      <h2 ref={revealTitle}>Gallery</h2>
+      <h2 ref={revealTitle}>Gallery   </h2>
 
       <ul className="gallery-grid">
         {prefersReducedMotion ? (
