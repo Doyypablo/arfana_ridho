@@ -256,7 +256,7 @@ const Gallery = () => {
       image: "/r ai.jpg", // Ukuran sertifikat ~1.4:1
       tags: ["R", "Code",],
       link: "/gallery/sunset",
-      fullImage: "/r ai.png"
+      fullImage: "/r ai.jpg"
     },
     {
       id: 2,
@@ -306,7 +306,7 @@ const Gallery = () => {
       image: "/sql ai.jpg",
       tags: ["SQL", "AI", "Database"],
       link: "/gallery/art",
-      fullImage: "/sql ai.png"
+      fullImage: "/sql ai.jpg"
     }
   ];
 
