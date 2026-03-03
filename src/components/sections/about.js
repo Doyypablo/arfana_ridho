@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript', 'Flutter', 'React', 'C++', 'Node.js', 'Tailwind Css', 'Building AI Agents with ADK', 'Deploy, Manage and Observe AI Agent in Cloud Run', 'CloudSQL Database'];
+  const skills = ['JavaScript', 'Flutter', 'React', 'C++', 'Node.js', 'Tailwind Css', 'Building AI Agents with ADK', 'Deploy, Manage and Observe AI Agent in Cloud Run', 'Building Persistent AI Agents with ADK and CloudSQL'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>

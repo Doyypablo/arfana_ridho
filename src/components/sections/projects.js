@@ -307,6 +307,26 @@ const Gallery = () => {
       tags: ["SQL", "AI", "Database"],
       link: "/gallery/art",
       fullImage: "/sql ai.jpg"
+    },
+    {
+      id: 7,
+      title: "Building Ai Agent with ADK: Empowering with Tools",
+      category: "AI Agent with ADK",
+      description: "KodingDeepDive x BwAI Jakarta - Architect AI Agent Systems with Agent-Database Lifecycle.",
+      image: "/agent tool.jpg",
+      tags: ["ADK", "AI", "Tools"],
+      link: "/gallery/art",
+      fullImage: "/agent tool.jpg"
+    },
+    {
+      id: 8,
+      title: "Building Persistent AI Agents with ADK and CloudSQL",
+      category: "AI Agentwith CloudSQL",
+      description: "KodingDeepDive x BwAI Jakarta - Architect AI Agent Systems with Agent-Database Lifecycle",
+      image: "/building sql.jpg",
+      tags: ["AI Agent", "ADK", "Programming"],
+      link: "/gallery/art",
+      fullImage: "/building sql.jpg"
     }
   ];
 
